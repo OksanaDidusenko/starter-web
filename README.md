@@ -21,4 +21,4 @@ Please fork this repository
 
 ### Copyright
 
-2019 git training.
+2019 git training. All rights
