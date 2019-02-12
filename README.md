@@ -15,7 +15,7 @@ Sample for test
 
 ## How To Contribute
 
-Sample
+Please fork this repository
 
 ### Copyright
 
