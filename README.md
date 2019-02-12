@@ -16,3 +16,7 @@ Sample for test
 ## How To Contribute
 
 Sample
+
+### Copyright
+
+2019 git
