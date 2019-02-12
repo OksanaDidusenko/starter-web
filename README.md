@@ -19,4 +19,4 @@ Sample
 
 ### Copyright
 
-2019 git
+2019 git training.
